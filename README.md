@@ -25,3 +25,5 @@ This repository is licensed under the Creative Commons Attribution-ShareAlike Li
 ## Credits
 
 This repository was created by [Adam Stacoviak](http://adamstacoviak.com/). The original content was forked from [this Gist](https://gist.github.com/adamyonk/7252897) created by [Adam Jahnke](https://twitter.com/adamyonk). Any required attribution links will reside in the specific document requiring the attribution.
+
+Thank you, [contributors](https://github.com/adamstac/coffeefancy/graphs/contributors)!
