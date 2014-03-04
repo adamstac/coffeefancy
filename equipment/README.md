@@ -2,7 +2,7 @@
 
 Everything you need to brew awesome coffee at home. Pick and choose based on your brew method and needs.
 
-#### Pour over method
+#### Pour over
 
 - [Chemex](http://www.amazon.com/Chemex-6-Cup-Classic-Series-Coffee/dp/B0000YWF5E/)
 - [Hario V60 Ceramic Dripper](http://www.amazon.com/Hario-VDC-02W-Ceramic-Coffee-Dripper/dp/B000P4D5HG/)
