@@ -6,3 +6,4 @@
 - [Friis Stainless Steel Coffee Vault](http://www.amazon.com/gp/product/B001V9VDP0/)
 - [AWS Scale](http://www.amazon.com/American-Weigh-Scales-AMW-SC-2KG-Digital/dp/B001RF3XJ2/)
 - [Bonavita Stovetop Kettle](http://www.amazon.com/gp/product/B005YR0IBU/) (with Gooseneck spout for better pour control)
+- [Bodum Chambord French Press - 8 Cup, 1.0 Liter, 34 Ounce](http://www.amazon.com/gp/product/B001LQHQT0/)
