@@ -1,4 +1,4 @@
-# AeroPress (inverted)
+# Aeropress, Inverted
 
 - Grind coffee beans at medium coarseness setting
 - Start with ~17g coffee and tune to taste
