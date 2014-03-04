@@ -1,7 +1,7 @@
 # Brew Methods
 
 - Aeropress
-- [AeroPress inverted](AeroPress_inverted.md)
+- [Aeropress, Inverted](aeropress-inverted.md)
 - [Chemex](Chemex.md)
 - Press
 - Pour over
