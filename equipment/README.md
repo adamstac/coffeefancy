@@ -14,7 +14,8 @@ Everything you need to brew awesome coffee at home. Pick and choose based on you
 
 #### Grind your beans
 
-- [Baratza Encore Burr Coffee Grinder](http://www.amazon.com/Baratza-Encore-Conical-Coffee-Grinder/dp/B007F183LK/)
+- [Baratza Encore Burr Coffee Grinder](http://www.amazon.com/Baratza-Encore-Conical-Coffee-Grinder/dp/B007F183LK/) (~$125)
+- [Hario Skerton Ceramic Coffee Mill](http://buy.stumptowncoffee.com/hario-skerton-ceramic-coffee-mill.html) (~$40)
 
 #### Keep your beans fresh
 
