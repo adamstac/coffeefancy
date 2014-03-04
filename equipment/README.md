@@ -8,7 +8,7 @@ Everything you need to brew awesome coffee at home. Pick and choose based on you
 - [Hario V60 Ceramic Dripper](http://www.amazon.com/Hario-VDC-02W-Ceramic-Coffee-Dripper/dp/B000P4D5HG/)
 - [Bee House Coffee Dripper](http://buy.stumptowncoffee.com/bee-house-dripper.html)
 
-#### Fresh Press
+#### French Press
 
 - [Bodum Chambord French Press - 8 Cup, 1.0 Liter, 34 Ounce](http://www.amazon.com/gp/product/B001LQHQT0/)
 
